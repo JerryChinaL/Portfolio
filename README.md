@@ -1,2 +1,2 @@
 # Portfolio
-A portfolio of my previous works for the purpose of demonstration.
+I organized my previous works for the purpose of demonstration.
